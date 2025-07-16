@@ -107,12 +107,20 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 
+<!-- 
 ###  📊Contribution Graph 
 
 <div align="center">
   
  ![snake gif](https://github.com/aniket52777/aniket52777/blob/output/github-snake-dark.svg)
   
+</div> -->
+
+###  📊Contribution Graph 
+
+<div align="center">
+  
+<img alt="GitHub Contributions Graph" src="https://ssr-contributions-svg.vercel.app/_/aniketsingh52?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=red"/>
 </div>
 
 
