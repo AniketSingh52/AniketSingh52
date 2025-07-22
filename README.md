@@ -151,8 +151,11 @@
 <h1 align="center" class="heading-element" dir="auto">🌐 Socials:</h1>
 
 <div align="center">
-  <a href="https://discord.gg/deadpool52777" target="_blank">
+<!--   <a href="https://discord.gg/deadpool52777" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
+  </a> -->
+  <a href="https://aniketportfolio3d.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://instagram.com/aniket_singh52" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
