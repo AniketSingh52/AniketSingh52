@@ -3,9 +3,14 @@
 <!-- # 💫 About Me: -->
 <h1 align="center" class="heading-element">💫 About Me:</h1>
 
-🔭 I’m currently working on Leave Management System  <br>🌱 I’m currently learning about React, Next, Express and WebGL2<br>💬 Ask me about HTML, Tailwind CSS, Jquery, PHP, Mysql. Basics about programming languages such as Python, Java, C, C++,C# etc.
+🔭 I’m currently working on [Leave Management System](https://github.com/AniketSingh52/vaze-leave-management)
+<br>🌱 I’m currently learning about React, Next, Express and WebGL2
+<br>💬 Ask me about HTML, Tailwind CSS, Jquery, PHP, Mysql. Basics about programming languages such as Python, Java, C, C++,C# etc.
 <br>
 
+<!---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketsingh52" alt="aaditya18sp" /></a> </p>
+-->
 
 <br>
 <!-- # 💻 Tech Stack: -->
